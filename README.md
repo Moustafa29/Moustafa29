@@ -12,7 +12,7 @@ Structured field extraction from photographed receipts with LayoutLMv3 on CORD â
 
 ### [Brain-Computer Interface for Smart Home Control](https://github.com/Moustafa29/Brain-Computer-Interface-for-Smart-Home-Control)
 
-Hands-free control of doors, windows and fans from EEG. A CNN-BiLSTM with fuzzy-logic smoothing reaches **92% blink classification** and drives ESP32 actuators; Flutter app in progress.
+Hands-free control of doors, windows and fans from EEG. A CNN-BiLSTM reaches **92% blink classification**, and blink detection drives ESP32 actuators. Flutter app in progress.
 
 ### [Sales Forecasting and Demand Prediction](https://github.com/Moustafa29/Sales-forecasting-and-demand-prediction)
 
